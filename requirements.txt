@@ -1,0 +1,6 @@
+openai-whisper
+gtts
+sounddevice
+scipy
+python-dotenv
+requests
